@@ -1,0 +1,6 @@
+# django-postman
+# .gitignore
+
+*.pyc
+docs/_*
+.idea/
